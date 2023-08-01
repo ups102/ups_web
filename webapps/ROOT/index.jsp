@@ -67,7 +67,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
                         <a class="container shadow" href="/manager/html"><span>Manager App</span></a>
                     </div>
                     <div class="button">
-                        <a class="container shadow" href="/host-manager/html"><span>Host Manager</span></a>
+                        <a class="container shadow" href="/host-manager/html"><span>Host Manager1</span></a>
                     </div>
                 </div>
                 <br class="separator" />
